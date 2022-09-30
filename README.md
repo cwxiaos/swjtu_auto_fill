@@ -18,6 +18,7 @@
 ## select_value -> 指定想填入的分数
 
 ## select_range -> 指定随机填写范围,当 select_mode != "select" 时生效, 闭区间.
+## text_msg -> 指定填入 16 17 两题的内容
 
 运行即可
 
