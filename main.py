@@ -101,7 +101,7 @@ if __name__ == "__main__":
 
     driver.find_element(By.ID, 'username').send_keys(username)
     driver.find_element(By.ID, 'password').send_keys(password)
-    driver.find_element(By.CLASS_NAME, 'auth_login_btn.primary.full_width').click()
+    driver.find_element(By.CLASS_NAME, 'lang_text_ellipsis.login-btn').click()
 
     while driver.current_url != 'http://jwc.swjtu.edu.cn/vatuu/UserFramework':
         sleep(1)
