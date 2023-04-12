@@ -1,6 +1,8 @@
 # swjtu_auto_fill
 西南交大课程评价自动填写
 
+Apr 10 2023， 已更新
+
 # How to use[如何使用]
 
 配置Python环境，安装Selenium+WebDriver
